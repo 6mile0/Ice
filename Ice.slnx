@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Ice/Ice.csproj" />
+  <Project Path="IceScripts/IceScripts.csproj" />
+</Solution>
